@@ -27,6 +27,3 @@ Information for final project:
 - Deliverables (for final writeup):
   - Jupyter notebook, supporting data files, Binder environment, and README in repo
   - Edits reflecting student and instructor feedback can be made until due date
-
-launch with myBinder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mc-cover/Gee_Whiz_Final_Project/main)
