@@ -29,4 +29,4 @@ Information for final project:
   - Edits reflecting student and instructor feedback can be made until due date
 
 launch with myBinder
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/<path to your repo>)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mc-cover/Gee_Whiz_Final_Project/main)
