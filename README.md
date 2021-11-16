@@ -1,33 +1,13 @@
-# EDS220_Fall2021_FinalProjInfo
-### Information needed for HW3 and final project for EDS 220, Fall 2021
+# EDS 220 Homework 3: Group GEE_Whiz
+### Calculating Mangrove Canopy Coverage
 
-This repository contains useful template information for working on assignments for EDS 220 Remote Sensing and Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
+This repository contains the contents of our 3rd homework assignment for EDS 220 assignment, in which we will teach a remote sensing concept to out cohort-mates. Our group calculates vegetation indices for mangrove canopies using Landsat 8 data. 
 
 Contents:
 - HW3_template.ipynb: Template Jupyter notebook for use in Homework 3 and final project
 - environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
-
-Information for Homework 3:
-- Due date = **Friday, November 19**
-- Deliverables:
-   - Completed Jupyter notebook template appropriate for your group 
-   - Any necessary data or supporting files included in the repo
-   - README file edited to be appropriate for your project
-
-
-Information for final project:
-- Presentation dates: **Nov 22; Nov 29; Dec 1**
-- Final writeup hand-in date: **Dec 8**
-- Deliverables (for in-class presentation):
-  - Jupyter notebook edited to reflect instructor feedback
-  - Empty notebook (all code commands removed; comments and markdown retained) to facilitate in-class code-alongs
-  - Binder environment compiled to allow others to run code easily
-  - Group-led code-along exercise on assigned presentation date
-
-- Deliverables (for final writeup):
-  - Jupyter notebook, supporting data files, Binder environment, and README in repo
-  - Edits reflecting student and instructor feedback can be made until due date
- 
- 
+- README.md: This file, which contains information about repository contents and the binder to for classmates to interact with our tutorial notebook
+- HW3_GEE_Whiz.ipynb: Julypter notebook where our data are called, described, and manipulated to analyze mangrove canopy coverage at our point of interest
+- .ipynb_checkpoints/: folder containing automatically saved versions of our progress in our local repositories 
  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mc-cover/Gee_Whiz_Final_Project/main)
