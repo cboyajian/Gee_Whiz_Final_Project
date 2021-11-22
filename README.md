@@ -10,7 +10,7 @@
 - **README.md**: This file, which contains information about repository contents and the binder to for classmates to interact with our tutorial notebook
 - **mangrove_canopy_coverage.ipynb**: Julypter notebook where our data are called, described, and manipulated to analyze mangrove canopy coverage at our point of interest
 - **empty_mangrove_canopy_coverage.ipynb**: a duplicate of the HW inofrmation and calculations, with code missing for live coding with the class to teach about our project 
-- **A new approach fro estimating mangrove canopy cover using Landsat 8 imagery.pdf**: published paper detailing a new way to calculate mangrove canopy cover using seven vegetation indeces
+- **A new approach for estimating mangrove canopy cover using Landsat 8 imagery.pdf**: published paper detailing a new way to calculate mangrove canopy cover using seven vegetation indeces
 - **Final-Report-Cacheu-projecet-1.pdf**: report detailing restoration efforts at Cacheu Mangroves National Park in Guinea-Bissau
  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mc-cover/Gee_Whiz_Final_Project/main)
