@@ -4,7 +4,7 @@
 This repository contains the contents of our 3rd homework assignment for EDS 220 assignment, in which we will teach a remote sensing concept to out cohort-mates. Our group calculates vegetation indices for mangrove canopies using Landsat 8 data. 
 
 Contents:
-- environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
+- environment.yml: Environment file for use in creating Binder environment for running Jupyter notebook
 - README.md: This file, which contains information about repository contents and the binder to for classmates to interact with our tutorial notebook
 - mangrove_canopy_coverage.ipynb: Julypter notebook where our data are called, described, and manipulated to analyze mangrove canopy coverage at our point of interest
 - .ipynb_checkpoints/: folder containing automatically saved versions of our progress in our local repositories 
