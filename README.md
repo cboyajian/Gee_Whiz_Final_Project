@@ -3,7 +3,7 @@
 
 **Authors**: Allie Cole, Clarissa Boyajian, Scout Leonard
 
-**Purpose**: This repository contains the contents of our 3rd homework assignment for EDS 220 assignment, in which we will teach a remote sensing concept to out cohort-mates. Our group calculates vegetation indices for mangrove canopies using Landsat 8 data.
+**Purpose**: This repository contains the contents of our 3rd homework assignment for EDS 220, in which we will teach a remote sensing concept to out cohort-mates. Our group calculates vegetation indices for mangrove canopies using Landsat 8 data.
 
 **Contents**:
 - **environment.yml**: Environment file for use in creating Binder environment for running Jupyter notebook
