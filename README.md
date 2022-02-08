@@ -1,9 +1,9 @@
-# EDS 220 Homework 3: Group GEE_Whiz
+# EDS 220: Group GEE_Whiz
 ### Calculating Mangrove Canopy Coverage
 
 **Authors**: Allie Cole, Clarissa Boyajian, Scout Leonard
 
-**Purpose**: This repository contains the contents of our 3rd homework assignment for EDS 220, in which we will teach a remote sensing concept to out cohort-mates. Our group calculates vegetation indices for mangrove canopies using Landsat 8 data.
+**Purpose**: This repository contains the contents used to teach remote sensing concepts to the EDS 220: Remote Sensing class. Our group calculated vegetation indices for mangrove canopies using Landsat 8 data.
 
 **Contents**:
 - **environment.yml**: Environment file for use in creating Binder environment for running Jupyter notebook
